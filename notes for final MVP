@@ -1,0 +1,44 @@
+// 43200, "180000000000000000", "0x038343bfaf1f35b01d91513c8472764d55474045", "664000000000000000000", "0x409F8C0Bb2C9C278a51E9f0E0f38AD32F663415e", "664000000000000000000"
+
+rinkeby deploy final test
+same token as before : 0x409F8C0Bb2C9C278a51E9f0E0f38AD32F663415e
+goal 664 eth
+minting 3400 tokens
+wallett 0x038343bfaf1f35b01d91513c8472764d55474045
+
+
+
+
+
+
+
+
+
+
+notes for final MVP
+
+  1 eth = 1000000000000000000 wei
+
+1 token =  180000000000000000 wei
+
+1 eth * 0.18 = 1 token
+
+
+--------------------------------------------
+multiply by 100
+
+  1 eth = 100000000000000000000 wei
+
+1 token =  18000000000000000000 wei
+           18000000000000000000
+
+1 eth * 18 = 1 token
+
+
+
+
+
+  "0": "bool: _is_true false",
+  "1": "uint256: _price 18000000000000000",
+  "2": "uint256: value_sent   180000000000000000",
+  "3": "uint256: total_needed 180000000000000000"
